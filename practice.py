@@ -1,0 +1,1 @@
+print("My placement preparation has started!")
