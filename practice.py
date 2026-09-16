@@ -1,1 +1,1 @@
-print("My placement preparation has started!")
+print("Placement preparation has started!")
