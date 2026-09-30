@@ -9,4 +9,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Jeevika-2008/placement-practice/tree/main/0008-string-to-integer-atoi/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Jeevika-2008/placement-practice/tree/main/0011-container-with-most-water/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Jeevika-2008/placement-practice/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Jeevika-2008/placement-practice/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
