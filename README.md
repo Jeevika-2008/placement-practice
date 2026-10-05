@@ -13,6 +13,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeevika-2008/placement-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Jeevika-2008/placement-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Jeevika-2008/placement-practice/tree/main/0242-valid-anagram/) | Easy |
+| [0443-string-compression](https://github.com/Jeevika-2008/placement-practice/tree/main/0443-string-compression/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeevika-2008/placement-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Jeevika-2008/placement-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Jeevika-2008/placement-practice/tree/main/0189-rotate-array/) | Medium |
+| [0443-string-compression](https://github.com/Jeevika-2008/placement-practice/tree/main/0443-string-compression/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
