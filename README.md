@@ -11,6 +11,7 @@
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Jeevika-2008/placement-practice/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeevika-2008/placement-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Jeevika-2008/placement-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Jeevika-2008/placement-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeevika-2008/placement-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Jeevika-2008/placement-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Jeevika-2008/placement-practice/tree/main/0189-rotate-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
