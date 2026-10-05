@@ -12,6 +12,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Jeevika-2008/placement-practice/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeevika-2008/placement-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Jeevika-2008/placement-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/Jeevika-2008/placement-practice/tree/main/0242-valid-anagram/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +45,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeevika-2008/placement-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Jeevika-2008/placement-practice/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Jeevika-2008/placement-practice/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
