@@ -20,6 +20,7 @@
 | [0011-container-with-most-water](https://github.com/Jeevika-2008/placement-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0189-rotate-array](https://github.com/Jeevika-2008/placement-practice/tree/main/0189-rotate-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Jeevika-2008/placement-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Jeevika-2008/placement-practice/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,4 +61,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Jeevika-2008/placement-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/Jeevika-2008/placement-practice/tree/main/1920-build-array-from-permutation/) | Easy |
 <!---LeetCode Topics End-->
