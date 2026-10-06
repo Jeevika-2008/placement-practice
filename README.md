@@ -16,6 +16,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Jeevika-2008/placement-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Jeevika-2008/placement-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0443-string-compression](https://github.com/Jeevika-2008/placement-practice/tree/main/0443-string-compression/) | Medium |
+| [0709-to-lower-case](https://github.com/Jeevika-2008/placement-practice/tree/main/0709-to-lower-case/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
