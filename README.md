@@ -19,6 +19,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Jeevika-2008/placement-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0189-rotate-array](https://github.com/Jeevika-2008/placement-practice/tree/main/0189-rotate-array/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/Jeevika-2008/placement-practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Jeevika-2008/placement-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Jeevika-2008/placement-practice/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Two Pointers
