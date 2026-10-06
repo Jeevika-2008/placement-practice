@@ -17,6 +17,7 @@
 | [0242-valid-anagram](https://github.com/Jeevika-2008/placement-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0443-string-compression](https://github.com/Jeevika-2008/placement-practice/tree/main/0443-string-compression/) | Medium |
 | [0709-to-lower-case](https://github.com/Jeevika-2008/placement-practice/tree/main/0709-to-lower-case/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/Jeevika-2008/placement-practice/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
