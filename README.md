@@ -19,6 +19,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Jeevika-2008/placement-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0189-rotate-array](https://github.com/Jeevika-2008/placement-practice/tree/main/0189-rotate-array/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Jeevika-2008/placement-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +56,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Jeevika-2008/placement-practice/tree/main/0242-valid-anagram/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Jeevika-2008/placement-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
