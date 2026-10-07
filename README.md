@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Jeevika-2008/placement-practice/tree/main/0007-reverse-integer/) | Medium |
+| [0062-unique-paths](https://github.com/Jeevika-2008/placement-practice/tree/main/0062-unique-paths/) | Medium |
 | [0189-rotate-array](https://github.com/Jeevika-2008/placement-practice/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Jeevika-2008/placement-practice/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jeevika-2008/placement-practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -107,10 +108,15 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Jeevika-2008/placement-practice/tree/main/0062-unique-paths/) | Medium |
 | [0072-edit-distance](https://github.com/Jeevika-2008/placement-practice/tree/main/0072-edit-distance/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Jeevika-2008/placement-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Jeevika-2008/placement-practice/tree/main/1143-longest-common-subsequence/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Jeevika-2008/placement-practice/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
