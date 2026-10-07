@@ -25,6 +25,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Jeevika-2008/placement-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jeevika-2008/placement-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/Jeevika-2008/placement-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0189-rotate-array](https://github.com/Jeevika-2008/placement-practice/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Jeevika-2008/placement-practice/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Jeevika-2008/placement-practice/tree/main/0283-move-zeroes/) | Easy |
@@ -86,6 +87,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Jeevika-2008/placement-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/Jeevika-2008/placement-practice/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Jeevika-2008/placement-practice/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
