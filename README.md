@@ -13,6 +13,7 @@
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Jeevika-2008/placement-practice/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeevika-2008/placement-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0072-edit-distance](https://github.com/Jeevika-2008/placement-practice/tree/main/0072-edit-distance/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Jeevika-2008/placement-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Jeevika-2008/placement-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jeevika-2008/placement-practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -106,6 +107,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/Jeevika-2008/placement-practice/tree/main/0072-edit-distance/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Jeevika-2008/placement-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
