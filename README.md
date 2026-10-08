@@ -34,6 +34,7 @@
 | [0268-missing-number](https://github.com/Jeevika-2008/placement-practice/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Jeevika-2008/placement-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Jeevika-2008/placement-practice/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Jeevika-2008/placement-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Jeevika-2008/placement-practice/tree/main/0704-binary-search/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jeevika-2008/placement-practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Jeevika-2008/placement-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -125,4 +126,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Jeevika-2008/placement-practice/tree/main/0070-climbing-stairs/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Jeevika-2008/placement-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
