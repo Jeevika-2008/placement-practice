@@ -43,6 +43,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jeevika-2008/placement-practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jeevika-2008/placement-practice/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Jeevika-2008/placement-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeevika-2008/placement-practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Jeevika-2008/placement-practice/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -125,6 +126,7 @@
 | [0070-climbing-stairs](https://github.com/Jeevika-2008/placement-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Jeevika-2008/placement-practice/tree/main/0072-edit-distance/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Jeevika-2008/placement-practice/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeevika-2008/placement-practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +148,5 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Jeevika-2008/placement-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jeevika-2008/placement-practice/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jeevika-2008/placement-practice/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeevika-2008/placement-practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 <!---LeetCode Topics End-->
