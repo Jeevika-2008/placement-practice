@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Jeevika-2008/placement-practice/tree/main/0007-reverse-integer/) | Medium |
 | [0062-unique-paths](https://github.com/Jeevika-2008/placement-practice/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/Jeevika-2008/placement-practice/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Jeevika-2008/placement-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Jeevika-2008/placement-practice/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Jeevika-2008/placement-practice/tree/main/0268-missing-number/) | Easy |
@@ -31,6 +32,7 @@
 | [0011-container-with-most-water](https://github.com/Jeevika-2008/placement-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jeevika-2008/placement-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/Jeevika-2008/placement-practice/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/Jeevika-2008/placement-practice/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Jeevika-2008/placement-practice/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Jeevika-2008/placement-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Jeevika-2008/placement-practice/tree/main/0268-missing-number/) | Easy |
