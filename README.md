@@ -164,4 +164,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Jeevika-2008/placement-practice/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Jeevika-2008/placement-practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 <!---LeetCode Topics End-->
