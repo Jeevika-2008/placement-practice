@@ -48,6 +48,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jeevika-2008/placement-practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Jeevika-2008/placement-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeevika-2008/placement-practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Jeevika-2008/placement-practice/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1920-build-array-from-permutation](https://github.com/Jeevika-2008/placement-practice/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Jeevika-2008/placement-practice/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1920-build-array-from-permutation](https://github.com/Jeevika-2008/placement-practice/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -181,4 +183,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jeevika-2008/placement-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Jeevika-2008/placement-practice/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Jeevika-2008/placement-practice/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 <!---LeetCode Topics End-->
