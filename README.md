@@ -213,4 +213,5 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Jeevika-2008/placement-practice/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Jeevika-2008/placement-practice/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Jeevika-2008/placement-practice/tree/main/0584-find-customer-referee/) | Easy |
+| [0585-investments-in-2016](https://github.com/Jeevika-2008/placement-practice/tree/main/0585-investments-in-2016/) | Medium |
 <!---LeetCode Topics End-->
