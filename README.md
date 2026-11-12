@@ -217,4 +217,5 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Jeevika-2008/placement-practice/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/Jeevika-2008/placement-practice/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Jeevika-2008/placement-practice/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0601-human-traffic-of-stadium](https://github.com/Jeevika-2008/placement-practice/tree/main/0601-human-traffic-of-stadium/) | Hard |
 <!---LeetCode Topics End-->
