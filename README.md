@@ -200,4 +200,5 @@
 | [0177-nth-highest-salary](https://github.com/Jeevika-2008/placement-practice/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/Jeevika-2008/placement-practice/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/Jeevika-2008/placement-practice/tree/main/0180-consecutive-numbers/) | Medium |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Jeevika-2008/placement-practice/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 <!---LeetCode Topics End-->
