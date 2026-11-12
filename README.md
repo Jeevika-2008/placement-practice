@@ -212,4 +212,5 @@
 | [0550-game-play-analysis-iv](https://github.com/Jeevika-2008/placement-practice/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Jeevika-2008/placement-practice/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Jeevika-2008/placement-practice/tree/main/0577-employee-bonus/) | Easy |
+| [0584-find-customer-referee](https://github.com/Jeevika-2008/placement-practice/tree/main/0584-find-customer-referee/) | Easy |
 <!---LeetCode Topics End-->
