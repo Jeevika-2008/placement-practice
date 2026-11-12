@@ -202,4 +202,5 @@
 | [0180-consecutive-numbers](https://github.com/Jeevika-2008/placement-practice/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Jeevika-2008/placement-practice/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Jeevika-2008/placement-practice/tree/main/0182-duplicate-emails/) | Easy |
+| [0183-customers-who-never-order](https://github.com/Jeevika-2008/placement-practice/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
