@@ -225,4 +225,5 @@
 | [0619-biggest-single-number](https://github.com/Jeevika-2008/placement-practice/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Jeevika-2008/placement-practice/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/Jeevika-2008/placement-practice/tree/main/0626-exchange-seats/) | Medium |
+| [0627-swap-sex-of-employees](https://github.com/Jeevika-2008/placement-practice/tree/main/0627-swap-sex-of-employees/) | Easy |
 <!---LeetCode Topics End-->
