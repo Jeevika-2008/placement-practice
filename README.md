@@ -208,4 +208,5 @@
 | [0196-delete-duplicate-emails](https://github.com/Jeevika-2008/placement-practice/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Jeevika-2008/placement-practice/tree/main/0197-rising-temperature/) | Easy |
 | [0262-trips-and-users](https://github.com/Jeevika-2008/placement-practice/tree/main/0262-trips-and-users/) | Hard |
+| [0511-game-play-analysis-i](https://github.com/Jeevika-2008/placement-practice/tree/main/0511-game-play-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
