@@ -223,4 +223,5 @@
 | [0608-tree-node](https://github.com/Jeevika-2008/placement-practice/tree/main/0608-tree-node/) | Medium |
 | [0610-triangle-judgement](https://github.com/Jeevika-2008/placement-practice/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/Jeevika-2008/placement-practice/tree/main/0619-biggest-single-number/) | Easy |
+| [0620-not-boring-movies](https://github.com/Jeevika-2008/placement-practice/tree/main/0620-not-boring-movies/) | Easy |
 <!---LeetCode Topics End-->
