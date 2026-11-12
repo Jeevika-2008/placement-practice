@@ -192,4 +192,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Jeevika-2008/placement-practice/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Jeevika-2008/placement-practice/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
