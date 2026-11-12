@@ -210,4 +210,5 @@
 | [0262-trips-and-users](https://github.com/Jeevika-2008/placement-practice/tree/main/0262-trips-and-users/) | Hard |
 | [0511-game-play-analysis-i](https://github.com/Jeevika-2008/placement-practice/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/Jeevika-2008/placement-practice/tree/main/0550-game-play-analysis-iv/) | Medium |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Jeevika-2008/placement-practice/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 <!---LeetCode Topics End-->
