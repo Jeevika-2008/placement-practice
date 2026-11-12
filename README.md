@@ -50,6 +50,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeevika-2008/placement-practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Jeevika-2008/placement-practice/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1920-build-array-from-permutation](https://github.com/Jeevika-2008/placement-practice/tree/main/1920-build-array-from-permutation/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Jeevika-2008/placement-practice/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
