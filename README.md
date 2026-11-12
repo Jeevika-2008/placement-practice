@@ -209,4 +209,5 @@
 | [0197-rising-temperature](https://github.com/Jeevika-2008/placement-practice/tree/main/0197-rising-temperature/) | Easy |
 | [0262-trips-and-users](https://github.com/Jeevika-2008/placement-practice/tree/main/0262-trips-and-users/) | Hard |
 | [0511-game-play-analysis-i](https://github.com/Jeevika-2008/placement-practice/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0550-game-play-analysis-iv](https://github.com/Jeevika-2008/placement-practice/tree/main/0550-game-play-analysis-iv/) | Medium |
 <!---LeetCode Topics End-->
